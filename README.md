@@ -11,7 +11,7 @@ Dans le fichier HTML fourni, au survol de l'image ajouter une bordure de 3px rou
 Dans le fichier HTML fourni, faire afficher ou masquer le texte en fonction de l'ancre.
 
 ## Exercice 3
-Dans le fichier HTML fourni, changer la couleur du texte en fonction du bouton choisi.
+Dans le fichier HTML fourni, changer la couleur du texte en fonction du bouton choisi. Utiliser le CSS fourni.
 
 ## Exercice 4
 Dans le fichier HTML fourni, mettre les bordures des inputs en rouge si les mots de passe sont différents. Sinon les mettre en vert.
