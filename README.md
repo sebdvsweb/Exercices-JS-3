@@ -15,3 +15,6 @@ Dans le fichier HTML fourni, changer la couleur du texte en fonction du bouton c
 
 ## Exercice 4
 Dans le fichier HTML fourni, mettre les bordures des inputs en rouge si les mots de passe sont différents. Sinon les mettre en vert.
+
+## Exercice 5
+Dans le fichier HTML fourni, modifier au clic le texte de la première `div` avec JavaScript. Modifier ensuite le contenu HTML de la seconde `div` au clic sur le second bouton.
